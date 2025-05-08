@@ -1,7 +1,5 @@
 # Team Polls - React Client
 
-![Team Polls Screenshot](screenshot.png) *(Add screenshot if available)*
-
 A real-time polling interface that connects to a Node.js backend. Allows creating polls, voting, and viewing live results.
 
 ## Key Features
